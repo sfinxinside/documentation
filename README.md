@@ -7,8 +7,8 @@
 
 Important links
 
-- [Open API spec](https://weu-sfinx-dev-apim.azure-api.net/backend/api/v1/swagger.json)
-- [Registration page](https://sfinxdevb2c.b2clogin.com/sfinxdevb2c.onmicrosoft.com/b2c_1_signup_sfinx_user/oauth2/v2.0/authorize?client_id=55157e1e-57b6-477a-8ab2-cba11cf5f257&redirect_uri=https%3A%2F%2Flocalhost%3A7127%2Fsignin-oidc&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fsfinxdevb2c.onmicrosoft.com%2Fbackend-api%2FLock.OpenClose&response_mode=form_post&nonce=638013535346800600.MTQ0ZjIwODItN2UwZS00ZDE1LTliY2YtNDEyMjk4MmMxMDgzYmI3NGJiYzctYmJjOS00ODRhLTg5OWMtYjBlYjdmODliNzlm&state=CfDJ8M2tU35z5CFLpeQKl9vupCQmfchPS1E18UDYvKQrXKzU2UJemjg13wpcDwuqupBWZqSGd2Hp_nd_GBd-cdftmC0VS3TbJOVglxpm8HnvzPs0Fnjd_r_j2zAYH_b5HnG_QEoFxqR3rsz5O-2b-T9f7UhnuJDGSyKda8oxzkH3UQNg-h3gE8U8m4OgKTuG_K2vHD6gYoF11ACZYNuveRN7xaAl9htHKPDMyMNRc95VMsSc3BGgd8DKTe3-XWeQhlcfp4SRSaR7eRo0mi6slCiQ1v7BulnimXKWY5txA7FsTcig)
+- [Open API spec](https://weu-sfinx-dev-apim.azure-api.net/backend/api/v1/openapi.yaml)
+
 
 ### Authentication
 
