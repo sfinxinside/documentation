@@ -4,6 +4,7 @@
 
 > **Warning**
 > The current release of the API is just mocked up and is subject to many changes to come.  
+> The released API is currently running on a low-end compute, without warm up.  This will be upgraded, as soon as real testing will start.
 
 Important links
 
