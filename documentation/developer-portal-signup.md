@@ -1,4 +1,4 @@
-# Signup to the Sfinx developer portal
+# Sign up to the Sfinx developer portal
 
 * Navigate to https://developer.sfinxinside.com in order to signup to the Sfinx developer portal and click Sign up in the top right corner.
 * Complete the form an click sign up.

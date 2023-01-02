@@ -1,6 +1,6 @@
 # Request an access token with Postman
 
-**Attention:** Please contact the Sfinx team in order to receive a client id and client secret if you don't have it on hand. You need this in order to gain access to the Sfinx APIs.
+> **Attention:** Please contact the Sfinx team in order to receive a client id and client secret if you don't have it on hand. You need this in order to gain access to the Sfinx APIs.
 
 * Open Postman
 * Create a new Collection

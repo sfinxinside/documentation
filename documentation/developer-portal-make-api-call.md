@@ -7,7 +7,7 @@ Below you can find how the about endpoint of the Application API product on the 
 * Group the operations by tag.
 * Select the GET operation in the about section.
 * Click Try it
-* Add an Authorization header with the bearer access token. Click [here](./postman-request-access-token) for more information on how to obtain an access token.
+* Add an Authorization header with the bearer access token. Click [here](./postman-request-access-token.md) for more information on how to obtain an access token.
 * Click send
 
 The request should complete with a 200 OK.
