@@ -3,7 +3,7 @@
 Below you can find how the about endpoint of the Application API product on the user acceptance test environment is called through the Sfinx developer portal. The same approach is valid for other Sfinx API products or endpoints:
 
 * Ensure you are signed in to the developer portal and a subscription for the desired Sfinx product is active.
-* Select product Sfinx Application API (User Acceptance Test).
+* Select product Sfinx Application API (uat).
 * Group the operations by tag.
 * Select the GET operation in the about section.
 * Click Try it
