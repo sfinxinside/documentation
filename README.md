@@ -2,9 +2,9 @@
 
 ## Sfinx developer portal
 
-All Sfinx APIs are exposed through the Sfinx developer portal: https://developer.sfinxinside.com
+All Sfinx APIs are exposed through the Sfinx developer portals.
 
-At the time of this writing, there is a Sfinx user acceptance test environment available for third parties in order to start integrating with the Sfinx backend.
+At the time of this writing, there is a Sfinx user acceptance test environment available for third parties in order to start integrating with the Sfinx backend. The developer portal of the user acceptance test environment can be reached at  https://uat.developer.sfinxinside.com
 
 Please sign up to the sfinx developer portal to get access to the Sfinx APIs to develop your scenario. Click [here](./documentation/developer-portal-signup.md) for more information on how to sign up to the Sfinx developer portal.
 
