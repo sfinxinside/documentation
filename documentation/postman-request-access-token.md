@@ -7,19 +7,19 @@
 * Open Postman
 * Create a new Collection
 * Go to the Variables tab of the newly created collection
-    - Create a variable for the client id 
-    - Create a variable for the client secret
+    - Create a variable for the client id: `SfinxClientId`
+    - Create a variable for the client secret: `SfinxClientSecret`
     - Click Save
 * Go to the Authorization tab of the newly created collection
     - Select OAuth2.0
     - Go to the Configure New Token Section (Configuration Options tab)
         * Token name: name of your choice
-        * Grant type: **Auhtorization Code**
+        * Grant type: **Authorization Code**
         * Callback URL: **https://oauth.pstmn.io/v1/callback**
         * Auth URL: see environment specific *Auth URL* setting below
         * Access Token URL: see environment specific *Access Token URL* setting below
-        * Client ID: reference the client id variable
-        * Client Secret: reference the client secret variable
+        * Client ID: reference the client id variable : (`{{SfinxClientId}}`)
+        * Client Secret: reference the client secret variable : (`{{SfinxClientSecret}}`)
         * Scope: see environment specific *Scope* setting below
     - Click Save
     - Click Get New Access Token
