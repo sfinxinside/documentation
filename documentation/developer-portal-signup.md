@@ -5,6 +5,6 @@
 * Complete the form an click sign up.
 * Activate your account by following the signup instruction in the email you received.
 * Sign in with your new credentials.
-* Click on the Products menu in order to see the available products (please contact the Sfinx team to get the desired API products assigned to your subscruiption).
+* Click on the Products menu in order to see the available products (please contact the Sfinx team to get the desired API products assigned to your subscription).
 
 
