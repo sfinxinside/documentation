@@ -30,7 +30,7 @@
 
 Please note you can use this token to make calls from elsewhere (e.g. the Sfinx developer portal).
 
-![Postman OAuth2.0](./../media/postman-oauth.png)
+![Postman OAuth2.0](../../media/postman-oauth.png)
 
 ## User acceptance test environment
 

@@ -12,4 +12,4 @@ Below you can find how the about endpoint of the Application API product on the 
 
 The request should complete with a 200 OK.
 
-![Try it](./../media/developer-portal-try-about-endpoint.png)
+![Try it](../../media/developer-portal-try-about-endpoint.png)
