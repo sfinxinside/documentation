@@ -26,6 +26,8 @@
     - Provide your Sfinx credentials (or sign up first) and login
     - Click Use Token
 
+> **Remark**: Make sure to include `offline_access` to the list of scopes.  This is needed to include the `refresh_token` in the response. 
+
 Please note you can use this token to make calls from elsewhere (e.g. the Sfinx developer portal).
 
 ![Postman OAuth2.0](./../media/postman-oauth.png)
@@ -36,4 +38,4 @@ Please note you can use this token to make calls from elsewhere (e.g. the Sfinx 
 |-------------------------|----------------------------------------------------------------------------------------------------------------|
 | Auth URL                | `https://sfinxuatb2c.b2clogin.com/sfinxuatb2c.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1_signup_sfinx_user` |
 | Access Token URL        | `https://sfinxuatb2c.b2clogin.com/sfinxuatb2c.onmicrosoft.com/oauth2/v2.0/token?p=b2c_1_signup_sfinx_user`     |
-| Scope                   | `https://sfinxuatb2c.onmicrosoft.com/backend-api/Lock.OpenClose`                                               |
+| Scope                   | `https://sfinxuatb2c.onmicrosoft.com/backend-api/Lock.OpenClose offline_access`                                               |
